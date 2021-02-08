@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#define VERSION 4
+#define VERSION 5
 #define BLINKTIME 300
 
 void blink(int tours, int pause)
